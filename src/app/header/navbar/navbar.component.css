@@ -36,6 +36,11 @@
   .fa-laptop {
     font-size: 25px;
   }
+
+  .social-icon a{
+    text-decoration: none;
+    color: var(--primary-color-1);
+  }
   
   .fa-linkedin, .fa-square-github {
     font-size: 20px;
